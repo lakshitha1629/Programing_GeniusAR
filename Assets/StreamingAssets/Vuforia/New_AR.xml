@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="python" size="0.500000 0.168885" />
+    <ImageTarget name="php" size="0.150000 0.084375" />
+    <ImageTarget name="java" size="0.150000 0.239362" />
+  </Tracking>
+</QCARConfig>
